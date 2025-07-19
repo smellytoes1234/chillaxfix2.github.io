@@ -8,7 +8,7 @@
 
 /****ADDONS****/
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css");
-@import url("");
+@import url("https://warrayquipsome.github.io/Chillax/ChillaxTag.css");
 @import url("https://warrayquipsome.github.io/Chillax/Addons/SettingsModalEdited.css");
 @import url("https://warrayquipsome.github.io/Chillax/Addons/AccountDetailsGrid.css");
 @import url("https://crearts-community.github.io/Friends-Grid/theme.css");
@@ -854,7 +854,7 @@ html.theme-light {
 }
 
 #app-mount .info__2debe .line__2debe:last-child:after {
-    content: "Hana Itsuzu " var(--cl-appearance) " 🎮";
+    content: " Chillax " var(--cl-appearance) " 🎮";
     display: block;
 }
 
