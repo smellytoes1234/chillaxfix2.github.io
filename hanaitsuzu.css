@@ -89,7 +89,7 @@
 ::-webkit-scrollbar-thumb {
     border: none !important;
     background-clip: content-box !important;
-    background: var(--chillax-scroller-color) !important;
+    background: var(---scroller-color) !important;
 }
 
 /*transparent call background*/
@@ -854,7 +854,7 @@ html.theme-light {
 }
 
 #app-mount .info__2debe .line__2debe:last-child:after {
-    content: "Chillax " var(--cl-appearance) " 🎮";
+    content: "Hana Itsuzu " var(--cl-appearance) " 🎮";
     display: block;
 }
 
